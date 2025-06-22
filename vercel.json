@@ -2,7 +2,7 @@
   "cleanUrls": true,
   "headers": [
     {
-      "source": "/(.*)",
+      "source": "/(.*\\.mp3)",
       "headers": [
         {
           "key": "Access-Control-Allow-Origin",
