@@ -1,8 +1,7 @@
 {
-  "cleanUrls": true,
   "headers": [
     {
-      "source": "/(.*\\.mp3)",
+      "source": "/mensagem.mp3",
       "headers": [
         {
           "key": "Access-Control-Allow-Origin",
